@@ -1,0 +1,4 @@
+.git*
+.db-data
+log/*
+tmp/*
